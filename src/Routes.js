@@ -12,7 +12,7 @@ import Logout from './components/Pages/Logout'
 
 export default class App extends Component {
   render() {
-    /*hhhhhhhhh*/
+    /*hhhhhhhhh-change*/
     return (
       <Router history={hashHistory}>
         <Route component={Layout}>
