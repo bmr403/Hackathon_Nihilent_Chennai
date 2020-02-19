@@ -29,7 +29,7 @@ const Links = () =>(
   <nav className="navbar navbar-expand-lg navbar-dark bg-dark ">
   <div className="container">
   <a className="navbar-brand" href="#">
-  <img src="http://www.nihilent.com/wp-content/uploads/2017/03/logo.jpg" alt=""/></a>
+  <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt=""/></a>
 
         <div className="collapse navbar-collapse" id="navbarResponsive">
           <ul className="navbar-nav ml-auto">
